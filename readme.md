@@ -1,14 +1,11 @@
 # SPA Assignement for WILP
 
-# Kakfa - Spark Streaming - Cassandra Community Streaming Application
+## Kakfa - Spark Streaming - Cassandra Community Streaming Application
 ---------------------------------------------------------------------
+##### Github link to the api used : https://github.com/lukePeavey/quotable
+##### Actual post replica : https://api.quotable.io/random 
 
-1) User creates a post in real time (Data is being scraped using an api) --> 
-
-# Github link to the api used : https://github.com/lukePeavey/quotable
-
-# Actual post replica : https://api.quotable.io/random 
-
+1)User creates a post in real time (Data is being scraped using an api) 
 2) These posts are pushed by Kafka producer --> 
 3) Read by kafka consumer --> 
 4) Taken as input by spark streaming application -->
