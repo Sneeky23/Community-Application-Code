@@ -5,13 +5,13 @@
 ##### Github link to the api used : https://github.com/lukePeavey/quotable
 ##### Actual post replica : https://api.quotable.io/random 
 
-1)User creates a post in real time (Data is being scraped using an api) 
-2) These posts are pushed by Kafka producer --> 
-3) Read by kafka consumer --> 
-4) Taken as input by spark streaming application -->
-5) Perform some analytical operation on received data in spark in real time -->
-6) Store the processed data in highly available cassandra database -->
-7) Retreive the data from cassandra and perform some analysis.
+1. User creates a post in real time (Data is being scraped using an api) 
+2. These posts are pushed by Kafka producer --> 
+3. Read by kafka consumer --> 
+4. Taken as input by spark streaming application -->
+5. Perform some analytical operation on received data in spark in real time -->
+6. Store the processed data in highly available cassandra database -->
+7. Retreive the data from cassandra and perform some analysis.
 
 
 ## Contributors : 
