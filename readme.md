@@ -28,12 +28,12 @@
 * Social Media Posts complete workflow 
 * Messenger/Conversations between users/user groups . <br />
 Choose any one workflow and implement it using open source Technologies such as 
-Kafka, Spark, Flink etc. and in one programming language Python/Java. [6 Marks]
+Kafka, Spark, Flink etc. and in one programming language Python/Java.
 
 2. Create a streaming analytics pipeline and a dashboard that shows Realtime insights 
 of the application.
 Note: Based on your workflow decide what could be valuable data points you can 
-gather and generate insights out of it. [6 Marks]
+gather and generate insights out of it. 
 
 3. Submit both the codes 
 * Of the working project
@@ -41,7 +41,7 @@ gather and generate insights out of it. [6 Marks]
 Separately and Link of a short 5–10-minute video helping to understand how 
 the integration between the different system subcomponent works. Proper flow 
 needs to be shown between the different classes defined for the workflow and data 
-pipeline. [3 Marks for the Video]
+pipeline. 
 ---
 ## Overview :
 
